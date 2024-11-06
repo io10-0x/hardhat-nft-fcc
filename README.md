@@ -102,10 +102,5 @@ For further details, including setup and deployment instructions, refer to the p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
 
-- [![Ethers.js][Ethers.js]][Ethers-url]
-- [![Chainlink][Chainlink.js]][Chainlink-url]
-- [![OpenZeppelin][OpenZeppelin.js]][OpenZeppelin-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
