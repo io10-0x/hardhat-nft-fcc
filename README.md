@@ -19,9 +19,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/io10-0x/hardhat-nft-fcc">
-    <img src="images/logo.png" alt="Logo" width="120" height="120">
-  </a>
+ 
 
 <h3 align="center">Nft Smart Contracts</h3>
 
